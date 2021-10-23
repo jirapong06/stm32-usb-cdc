@@ -1,7 +1,7 @@
 # stm32-usb-cdc
 STM32CubeIDE
 
-Send data to computer over usb using STM32 USB CDC function.<br>
+Send data from stm32 microcontroller to computer over usb using STM32 USB CDC function.<br>
 This way not use UART and TTL & USB converter chips. <br>
 Testing on stm32f103c8t6
 
